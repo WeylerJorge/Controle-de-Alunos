@@ -1,0 +1,15 @@
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\bin\Debug\net6.0\Exercicio_Class_03.exe
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\bin\Debug\net6.0\Exercicio_Class_03.deps.json
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\bin\Debug\net6.0\Exercicio_Class_03.runtimeconfig.json
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\bin\Debug\net6.0\Exercicio_Class_03.dll
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\bin\Debug\net6.0\Exercicio_Class_03.pdb
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\Exercicio_Class_03.csproj.AssemblyReference.cache
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\Exercicio_Class_03.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\Exercicio_Class_03.AssemblyInfoInputs.cache
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\Exercicio_Class_03.AssemblyInfo.cs
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\Exercicio_Class_03.csproj.CoreCompileInputs.cache
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\Exercicio_Class_03.dll
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\refint\Exercicio_Class_03.dll
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\Exercicio_Class_03.pdb
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\Exercicio_Class_03.genruntimeconfig.cache
+F:\Aulas Facul\Terceiro Periodo\POO\Exercicio_Class_03\Exercicio_Class_03\obj\Debug\net6.0\ref\Exercicio_Class_03.dll
